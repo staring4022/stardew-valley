@@ -1,0 +1,108 @@
+subject,relation,object
+法师,发布,Meet The Wizard
+Meet The Wizard,发生于,WizardHouse
+齐先生,发布,The Mysterious Qi
+镇长刘易斯,发布,Getting Started
+Getting Started,奖励,100金
+Getting Started,发生于,(O)24
+罗宾,发布,Raising Animals
+Raising Animals,奖励,100金
+Raising Animals,发生于,Coop
+Advancement,奖励,100金
+Advancement,发生于,(BC)8
+Copper Ore,发生于,.
+Forging Ahead,发生于,(BC)13
+Smelting,发生于,(O)334 1
+Explore The Mine,发生于,17
+Initiation,发生于,Green_Slime 10 null false
+Initiation,发生于,AdventureGuild
+Deeper In The Mine,发生于,18
+玛妮,发布,Marnie's Request
+乔迪,发布,Fish Casserole
+Archaeology,发生于,ArchaeologyHouse
+Archaeology,奖励,250金
+罗宾,发布,Robin's Lost Axe
+Robin's Lost Axe,奖励,250金
+Robin's Lost Axe,发生于,Robin (O)788 Forest 110 81
+乔迪,发布,Jodi's Request
+Jodi's Request,奖励,350金
+Jodi's Request,发生于,Jodi (O)190
+Mayor's "Shorts",奖励,750金
+Mayor's "Shorts",发生于,Lewis (O)789 AnimalShop 13 7
+Pam Is Thirsty,发生于,Pam (O)303
+Crop Research,发生于,Demetrius (O)254
+Knee Therapy,发生于,George (O)260
+Cow's Delight,发生于,Marnie (O)300
+Blackberry Basket,发生于,Linus (O)790 Backwoods 27 27
+Carving Pumpkins,发生于,Caroline (O)276
+Catch A Squid,发生于,Willy (O)151
+Clint's Attempt,发生于,Emily (O)66
+A Dark Reagent,发生于,Wizard (O)769
+A Favor For Clint,发生于,Clint (O)335
+Robin's Request,发生于,Robin (O)709 10
+Fish Stew,发生于,Gus (O)705
+Fresh Fruit,发生于,Emily (O)634
+Granny's Gift,发生于,Evelyn (O)20
+Pierre's Notice,发生于,Pierre (O)227
+Aquatic Research,发生于,Demetrius (O)128
+A Soldier's Star,发生于,Kent (O)268
+Mayor's Need,发生于,Lewis (O)432
+Wanted: Lobster,发生于,Gus (O)715
+Pam Needs Juice,发生于,Pam (O)787
+Staff Of Power,发生于,Wizard (O)337
+Catch a Lingcod,发生于,Willy (O)707
+Exotic Spirits,发生于,Gus (O)88
+Errand for your Wife,发生于,Emily (O)771 200
+...,发生于,Abigail (O)191 100 129
+...,发生于,Caroline (O)191 50 128
+Getting Started,发生于,-5
+Feeding Animals,发生于,Silo
+Abigail.ja-JP,提到,斧
+Abigail.ja-JP,提到,作物
+Abigail.zh-CN,提到,剑
+Abigail.zh-CN,提到,斧
+Caroline.ja-JP,提到,作物
+Caroline.zh-CN,提到,作物
+Clint.zh-CN,提到,镐
+Demetrius.ja-JP,提到,作物
+Demetrius.zh-CN,提到,作物
+Elliott.ja-JP,提到,作物
+Elliott.zh-CN,提到,种子
+Elliott.zh-CN,提到,作物
+Emily.ja-JP,提到,作物
+Emily.zh-CN,提到,作物
+Haley.ja-JP,提到,作物
+Harvey.zh-CN,提到,作物
+Leah.ja-JP,提到,作物
+Lewis.ja-JP,提到,作物
+Lewis.zh-CN,提到,作物
+MarriageDialogue.ja-JP,提到,作物
+MarriageDialogue.zh-CN,提到,作物
+MarriageDialogueHarvey.ja-JP,提到,作物
+MarriageDialogueHarvey.zh-CN,提到,作物
+Maru.zh-CN,提到,作物
+Pam.zh-CN,提到,鱼竿
+Pierre.ja-JP,提到,作物
+Pierre.zh-CN,提到,种子
+Pierre.zh-CN,提到,作物
+Sandy.zh-CN,提到,种子
+Sebastian.zh-CN,提到,剑
+Willy.zh-CN,提到,鱼竿
+皮埃尔,出售,种子
+皮埃尔,出售,肥料
+克林特,出售,矿石
+克林特,打造,工具
+罗宾,出售,建材
+威利,出售,鱼竿
+玛妮,出售,动物
+矿洞,包含,矿石
+矿洞,包含,怪物
+森林,包含, forageables
+河流,包含,鱼类
+海洋,包含,鱼类
+春季,适合种植,防风草
+春季,适合种植,花椰菜
+夏季,适合种植,蓝莓
+夏季,适合种植,辣椒
+秋季,适合种植,蔓越莓
+秋季,适合种植,南瓜

@@ -1,0 +1,1801 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-12-15">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="3" title="relation" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="name" type="string" />
+      <attribute id="1" title="type" type="string" />
+      <attribute id="2" title="attributes" type="string" />
+    </attributes>
+    <nodes>
+      <node id="quest_1" label="quest_1">
+        <attvalues>
+          <attvalue for="0" value="Meet The Wizard" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Meet The Wizard', 'entity_id': 'quest_1'}" />
+        </attvalues>
+      </node>
+      <node id="npc_1" label="npc_1">
+        <attvalues>
+          <attvalue for="0" value="法师" />
+          <attvalue for="1" value="NPC" />
+          <attvalue for="2" value="{'name': '法师', 'entity_id': 'npc_1'}" />
+        </attvalues>
+      </node>
+      <node id="quest_2" label="quest_2">
+        <attvalues>
+          <attvalue for="0" value="The Mysterious Qi" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'The Mysterious Qi', 'entity_id': 'quest_2'}" />
+        </attvalues>
+      </node>
+      <node id="npc_2" label="npc_2">
+        <attvalues>
+          <attvalue for="0" value="齐先生" />
+          <attvalue for="1" value="NPC" />
+          <attvalue for="2" value="{'name': '齐先生', 'entity_id': 'npc_2'}" />
+        </attvalues>
+      </node>
+      <node id="quest_3" label="quest_3">
+        <attvalues>
+          <attvalue for="0" value="The Mysterious Qi" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'The Mysterious Qi', 'entity_id': 'quest_3'}" />
+        </attvalues>
+      </node>
+      <node id="quest_4" label="quest_4">
+        <attvalues>
+          <attvalue for="0" value="The Mysterious Qi" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'The Mysterious Qi', 'entity_id': 'quest_4'}" />
+        </attvalues>
+      </node>
+      <node id="quest_5" label="quest_5">
+        <attvalues>
+          <attvalue for="0" value="The Mysterious Qi" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'The Mysterious Qi', 'entity_id': 'quest_5'}" />
+        </attvalues>
+      </node>
+      <node id="quest_6" label="quest_6">
+        <attvalues>
+          <attvalue for="0" value="Getting Started" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Getting Started', 'entity_id': 'quest_6'}" />
+        </attvalues>
+      </node>
+      <node id="npc_6" label="npc_6">
+        <attvalues>
+          <attvalue for="0" value="镇长刘易斯" />
+          <attvalue for="1" value="NPC" />
+          <attvalue for="2" value="{'name': '镇长刘易斯', 'entity_id': 'npc_6'}" />
+        </attvalues>
+      </node>
+      <node id="quest_7" label="quest_7">
+        <attvalues>
+          <attvalue for="0" value="Raising Animals" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Raising Animals', 'entity_id': 'quest_7'}" />
+        </attvalues>
+      </node>
+      <node id="npc_7" label="npc_7">
+        <attvalues>
+          <attvalue for="0" value="罗宾" />
+          <attvalue for="1" value="NPC" />
+          <attvalue for="2" value="{'name': '罗宾', 'entity_id': 'npc_7'}" />
+        </attvalues>
+      </node>
+      <node id="quest_8" label="quest_8">
+        <attvalues>
+          <attvalue for="0" value="Advancement" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Advancement', 'entity_id': 'quest_8'}" />
+        </attvalues>
+      </node>
+      <node id="quest_9" label="quest_9">
+        <attvalues>
+          <attvalue for="0" value="Introductions" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Introductions', 'entity_id': 'quest_9'}" />
+        </attvalues>
+      </node>
+      <node id="quest_10" label="quest_10">
+        <attvalues>
+          <attvalue for="0" value="Copper Ore" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Copper Ore', 'entity_id': 'quest_10'}" />
+        </attvalues>
+      </node>
+      <node id="quest_11" label="quest_11">
+        <attvalues>
+          <attvalue for="0" value="Forging Ahead" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Forging Ahead', 'entity_id': 'quest_11'}" />
+        </attvalues>
+      </node>
+      <node id="quest_12" label="quest_12">
+        <attvalues>
+          <attvalue for="0" value="Smelting" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Smelting', 'entity_id': 'quest_12'}" />
+        </attvalues>
+      </node>
+      <node id="quest_13" label="quest_13">
+        <attvalues>
+          <attvalue for="0" value="To The Beach" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'To The Beach', 'entity_id': 'quest_13'}" />
+        </attvalues>
+      </node>
+      <node id="quest_14" label="quest_14">
+        <attvalues>
+          <attvalue for="0" value="Explore The Mine" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Explore The Mine', 'entity_id': 'quest_14'}" />
+        </attvalues>
+      </node>
+      <node id="quest_15" label="quest_15">
+        <attvalues>
+          <attvalue for="0" value="Initiation" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Initiation', 'entity_id': 'quest_15'}" />
+        </attvalues>
+      </node>
+      <node id="quest_16" label="quest_16">
+        <attvalues>
+          <attvalue for="0" value="Initiation" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Initiation', 'entity_id': 'quest_16'}" />
+        </attvalues>
+      </node>
+      <node id="quest_17" label="quest_17">
+        <attvalues>
+          <attvalue for="0" value="Deeper In The Mine" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Deeper In The Mine', 'entity_id': 'quest_17'}" />
+        </attvalues>
+      </node>
+      <node id="quest_18" label="quest_18">
+        <attvalues>
+          <attvalue for="0" value="To The Bottom?" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'To The Bottom?', 'entity_id': 'quest_18'}" />
+        </attvalues>
+      </node>
+      <node id="quest_19" label="quest_19">
+        <attvalues>
+          <attvalue for="0" value="The Skull Key" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'The Skull Key', 'entity_id': 'quest_19'}" />
+        </attvalues>
+      </node>
+      <node id="quest_20" label="quest_20">
+        <attvalues>
+          <attvalue for="0" value="Qi's Challenge" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': &quot;Qi's Challenge&quot;, 'entity_id': 'quest_20'}" />
+        </attvalues>
+      </node>
+      <node id="quest_21" label="quest_21">
+        <attvalues>
+          <attvalue for="0" value="Marnie's Request" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': &quot;Marnie's Request&quot;, 'entity_id': 'quest_21'}" />
+        </attvalues>
+      </node>
+      <node id="npc_21" label="npc_21">
+        <attvalues>
+          <attvalue for="0" value="玛妮" />
+          <attvalue for="1" value="NPC" />
+          <attvalue for="2" value="{'name': '玛妮', 'entity_id': 'npc_21'}" />
+        </attvalues>
+      </node>
+      <node id="quest_22" label="quest_22">
+        <attvalues>
+          <attvalue for="0" value="Fish Casserole" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Fish Casserole', 'entity_id': 'quest_22'}" />
+        </attvalues>
+      </node>
+      <node id="npc_22" label="npc_22">
+        <attvalues>
+          <attvalue for="0" value="乔迪" />
+          <attvalue for="1" value="NPC" />
+          <attvalue for="2" value="{'name': '乔迪', 'entity_id': 'npc_22'}" />
+        </attvalues>
+      </node>
+      <node id="quest_23" label="quest_23">
+        <attvalues>
+          <attvalue for="0" value="Archaeology" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Archaeology', 'entity_id': 'quest_23'}" />
+        </attvalues>
+      </node>
+      <node id="quest_24" label="quest_24">
+        <attvalues>
+          <attvalue for="0" value="Archaeology" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Archaeology', 'entity_id': 'quest_24'}" />
+        </attvalues>
+      </node>
+      <node id="quest_25" label="quest_25">
+        <attvalues>
+          <attvalue for="0" value="How To Win Friends" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'How To Win Friends', 'entity_id': 'quest_25'}" />
+        </attvalues>
+      </node>
+      <node id="quest_26" label="quest_26">
+        <attvalues>
+          <attvalue for="0" value="&quot;Rat Problem&quot;" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': '&quot;Rat Problem&quot;', 'entity_id': 'quest_26'}" />
+        </attvalues>
+      </node>
+      <node id="quest_27" label="quest_27">
+        <attvalues>
+          <attvalue for="0" value="Goblin Problem" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Goblin Problem', 'entity_id': 'quest_27'}" />
+        </attvalues>
+      </node>
+      <node id="quest_28" label="quest_28">
+        <attvalues>
+          <attvalue for="0" value="Dark Talisman" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Dark Talisman', 'entity_id': 'quest_28'}" />
+        </attvalues>
+      </node>
+      <node id="quest_29" label="quest_29">
+        <attvalues>
+          <attvalue for="0" value="Strange Note" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Strange Note', 'entity_id': 'quest_29'}" />
+        </attvalues>
+      </node>
+      <node id="quest_30" label="quest_30">
+        <attvalues>
+          <attvalue for="0" value="Cryptic Note" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Cryptic Note', 'entity_id': 'quest_30'}" />
+        </attvalues>
+      </node>
+      <node id="quest_31" label="quest_31">
+        <attvalues>
+          <attvalue for="0" value="A Winter Mystery" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'A Winter Mystery', 'entity_id': 'quest_31'}" />
+        </attvalues>
+      </node>
+      <node id="quest_100" label="quest_100">
+        <attvalues>
+          <attvalue for="0" value="Robin's Lost Axe" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': &quot;Robin's Lost Axe&quot;, 'entity_id': 'quest_100'}" />
+        </attvalues>
+      </node>
+      <node id="npc_100" label="npc_100">
+        <attvalues>
+          <attvalue for="0" value="罗宾" />
+          <attvalue for="1" value="NPC" />
+          <attvalue for="2" value="{'name': '罗宾', 'entity_id': 'npc_100'}" />
+        </attvalues>
+      </node>
+      <node id="quest_101" label="quest_101">
+        <attvalues>
+          <attvalue for="0" value="Jodi's Request" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': &quot;Jodi's Request&quot;, 'entity_id': 'quest_101'}" />
+        </attvalues>
+      </node>
+      <node id="npc_101" label="npc_101">
+        <attvalues>
+          <attvalue for="0" value="乔迪" />
+          <attvalue for="1" value="NPC" />
+          <attvalue for="2" value="{'name': '乔迪', 'entity_id': 'npc_101'}" />
+        </attvalues>
+      </node>
+      <node id="quest_102" label="quest_102">
+        <attvalues>
+          <attvalue for="0" value="Mayor's &quot;Shorts&quot;" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Mayor\'s &quot;Shorts&quot;', 'entity_id': 'quest_102'}" />
+        </attvalues>
+      </node>
+      <node id="quest_103" label="quest_103">
+        <attvalues>
+          <attvalue for="0" value="Pam Is Thirsty" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Pam Is Thirsty', 'entity_id': 'quest_103'}" />
+        </attvalues>
+      </node>
+      <node id="quest_104" label="quest_104">
+        <attvalues>
+          <attvalue for="0" value="Crop Research" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Crop Research', 'entity_id': 'quest_104'}" />
+        </attvalues>
+      </node>
+      <node id="quest_105" label="quest_105">
+        <attvalues>
+          <attvalue for="0" value="Knee Therapy" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Knee Therapy', 'entity_id': 'quest_105'}" />
+        </attvalues>
+      </node>
+      <node id="quest_106" label="quest_106">
+        <attvalues>
+          <attvalue for="0" value="Cow's Delight" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': &quot;Cow's Delight&quot;, 'entity_id': 'quest_106'}" />
+        </attvalues>
+      </node>
+      <node id="quest_107" label="quest_107">
+        <attvalues>
+          <attvalue for="0" value="Blackberry Basket" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Blackberry Basket', 'entity_id': 'quest_107'}" />
+        </attvalues>
+      </node>
+      <node id="quest_108" label="quest_108">
+        <attvalues>
+          <attvalue for="0" value="Carving Pumpkins" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Carving Pumpkins', 'entity_id': 'quest_108'}" />
+        </attvalues>
+      </node>
+      <node id="quest_109" label="quest_109">
+        <attvalues>
+          <attvalue for="0" value="Catch A Squid" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Catch A Squid', 'entity_id': 'quest_109'}" />
+        </attvalues>
+      </node>
+      <node id="quest_110" label="quest_110">
+        <attvalues>
+          <attvalue for="0" value="Clint's Attempt" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': &quot;Clint's Attempt&quot;, 'entity_id': 'quest_110'}" />
+        </attvalues>
+      </node>
+      <node id="quest_111" label="quest_111">
+        <attvalues>
+          <attvalue for="0" value="A Dark Reagent" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'A Dark Reagent', 'entity_id': 'quest_111'}" />
+        </attvalues>
+      </node>
+      <node id="quest_112" label="quest_112">
+        <attvalues>
+          <attvalue for="0" value="A Favor For Clint" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'A Favor For Clint', 'entity_id': 'quest_112'}" />
+        </attvalues>
+      </node>
+      <node id="quest_113" label="quest_113">
+        <attvalues>
+          <attvalue for="0" value="Robin's Request" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': &quot;Robin's Request&quot;, 'entity_id': 'quest_113'}" />
+        </attvalues>
+      </node>
+      <node id="quest_114" label="quest_114">
+        <attvalues>
+          <attvalue for="0" value="Fish Stew" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Fish Stew', 'entity_id': 'quest_114'}" />
+        </attvalues>
+      </node>
+      <node id="quest_115" label="quest_115">
+        <attvalues>
+          <attvalue for="0" value="Fresh Fruit" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Fresh Fruit', 'entity_id': 'quest_115'}" />
+        </attvalues>
+      </node>
+      <node id="quest_116" label="quest_116">
+        <attvalues>
+          <attvalue for="0" value="Granny's Gift" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': &quot;Granny's Gift&quot;, 'entity_id': 'quest_116'}" />
+        </attvalues>
+      </node>
+      <node id="quest_117" label="quest_117">
+        <attvalues>
+          <attvalue for="0" value="Pierre's Notice" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': &quot;Pierre's Notice&quot;, 'entity_id': 'quest_117'}" />
+        </attvalues>
+      </node>
+      <node id="quest_118" label="quest_118">
+        <attvalues>
+          <attvalue for="0" value="Aquatic Research" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Aquatic Research', 'entity_id': 'quest_118'}" />
+        </attvalues>
+      </node>
+      <node id="quest_119" label="quest_119">
+        <attvalues>
+          <attvalue for="0" value="A Soldier's Star" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': &quot;A Soldier's Star&quot;, 'entity_id': 'quest_119'}" />
+        </attvalues>
+      </node>
+      <node id="quest_120" label="quest_120">
+        <attvalues>
+          <attvalue for="0" value="Mayor's Need" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': &quot;Mayor's Need&quot;, 'entity_id': 'quest_120'}" />
+        </attvalues>
+      </node>
+      <node id="quest_121" label="quest_121">
+        <attvalues>
+          <attvalue for="0" value="Wanted: Lobster" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Wanted: Lobster', 'entity_id': 'quest_121'}" />
+        </attvalues>
+      </node>
+      <node id="quest_122" label="quest_122">
+        <attvalues>
+          <attvalue for="0" value="Pam Needs Juice" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Pam Needs Juice', 'entity_id': 'quest_122'}" />
+        </attvalues>
+      </node>
+      <node id="quest_123" label="quest_123">
+        <attvalues>
+          <attvalue for="0" value="Staff Of Power" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Staff Of Power', 'entity_id': 'quest_123'}" />
+        </attvalues>
+      </node>
+      <node id="quest_124" label="quest_124">
+        <attvalues>
+          <attvalue for="0" value="Catch a Lingcod" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Catch a Lingcod', 'entity_id': 'quest_124'}" />
+        </attvalues>
+      </node>
+      <node id="quest_125" label="quest_125">
+        <attvalues>
+          <attvalue for="0" value="Exotic Spirits" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Exotic Spirits', 'entity_id': 'quest_125'}" />
+        </attvalues>
+      </node>
+      <node id="quest_126" label="quest_126">
+        <attvalues>
+          <attvalue for="0" value="Errand for your Wife" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Errand for your Wife', 'entity_id': 'quest_126'}" />
+        </attvalues>
+      </node>
+      <node id="quest_127" label="quest_127">
+        <attvalues>
+          <attvalue for="0" value="Haley's Cake-Walk" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': &quot;Haley's Cake-Walk&quot;, 'entity_id': 'quest_127'}" />
+        </attvalues>
+      </node>
+      <node id="quest_128" label="quest_128">
+        <attvalues>
+          <attvalue for="0" value="..." />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': '...', 'entity_id': 'quest_128'}" />
+        </attvalues>
+      </node>
+      <node id="quest_129" label="quest_129">
+        <attvalues>
+          <attvalue for="0" value="..." />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': '...', 'entity_id': 'quest_129'}" />
+        </attvalues>
+      </node>
+      <node id="quest_130" label="quest_130">
+        <attvalues>
+          <attvalue for="0" value="The Pirate's Wife" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': &quot;The Pirate's Wife&quot;, 'entity_id': 'quest_130'}" />
+        </attvalues>
+      </node>
+      <node id="quest_131" label="quest_131">
+        <attvalues>
+          <attvalue for="0" value="Willy's Challenge" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': &quot;Willy's Challenge&quot;, 'entity_id': 'quest_131'}" />
+        </attvalues>
+      </node>
+      <node id="quest_132" label="quest_132">
+        <attvalues>
+          <attvalue for="0" value="Getting Started" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Getting Started', 'entity_id': 'quest_132'}" />
+        </attvalues>
+      </node>
+      <node id="quest_133" label="quest_133">
+        <attvalues>
+          <attvalue for="0" value="Feeding Animals" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Feeding Animals', 'entity_id': 'quest_133'}" />
+        </attvalues>
+      </node>
+      <node id="quest_134" label="quest_134">
+        <attvalues>
+          <attvalue for="0" value="The Giant Stump" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'The Giant Stump', 'entity_id': 'quest_134'}" />
+        </attvalues>
+      </node>
+      <node id="node_74" label="node_74">
+        <attvalues>
+          <attvalue for="0" value="Abigail.ja-JP" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Abigail.ja-JP'}" />
+        </attvalues>
+      </node>
+      <node id="node_75" label="node_75">
+        <attvalues>
+          <attvalue for="0" value="Abigail.zh-CN" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Abigail.zh-CN'}" />
+        </attvalues>
+      </node>
+      <node id="node_76" label="node_76">
+        <attvalues>
+          <attvalue for="0" value="Caroline.ja-JP" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Caroline.ja-JP'}" />
+        </attvalues>
+      </node>
+      <node id="node_77" label="node_77">
+        <attvalues>
+          <attvalue for="0" value="Caroline.zh-CN" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Caroline.zh-CN'}" />
+        </attvalues>
+      </node>
+      <node id="node_78" label="node_78">
+        <attvalues>
+          <attvalue for="0" value="Clint.zh-CN" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Clint.zh-CN'}" />
+        </attvalues>
+      </node>
+      <node id="node_79" label="node_79">
+        <attvalues>
+          <attvalue for="0" value="Demetrius.ja-JP" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Demetrius.ja-JP'}" />
+        </attvalues>
+      </node>
+      <node id="node_80" label="node_80">
+        <attvalues>
+          <attvalue for="0" value="Demetrius.zh-CN" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Demetrius.zh-CN'}" />
+        </attvalues>
+      </node>
+      <node id="node_81" label="node_81">
+        <attvalues>
+          <attvalue for="0" value="Elliott.ja-JP" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Elliott.ja-JP'}" />
+        </attvalues>
+      </node>
+      <node id="node_82" label="node_82">
+        <attvalues>
+          <attvalue for="0" value="Elliott.zh-CN" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Elliott.zh-CN'}" />
+        </attvalues>
+      </node>
+      <node id="node_83" label="node_83">
+        <attvalues>
+          <attvalue for="0" value="Emily.ja-JP" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Emily.ja-JP'}" />
+        </attvalues>
+      </node>
+      <node id="node_84" label="node_84">
+        <attvalues>
+          <attvalue for="0" value="Emily.zh-CN" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Emily.zh-CN'}" />
+        </attvalues>
+      </node>
+      <node id="node_85" label="node_85">
+        <attvalues>
+          <attvalue for="0" value="Haley.ja-JP" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Haley.ja-JP'}" />
+        </attvalues>
+      </node>
+      <node id="node_86" label="node_86">
+        <attvalues>
+          <attvalue for="0" value="Harvey.zh-CN" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Harvey.zh-CN'}" />
+        </attvalues>
+      </node>
+      <node id="node_87" label="node_87">
+        <attvalues>
+          <attvalue for="0" value="Leah.ja-JP" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Leah.ja-JP'}" />
+        </attvalues>
+      </node>
+      <node id="node_88" label="node_88">
+        <attvalues>
+          <attvalue for="0" value="Lewis.ja-JP" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Lewis.ja-JP'}" />
+        </attvalues>
+      </node>
+      <node id="node_89" label="node_89">
+        <attvalues>
+          <attvalue for="0" value="Lewis.zh-CN" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Lewis.zh-CN'}" />
+        </attvalues>
+      </node>
+      <node id="node_90" label="node_90">
+        <attvalues>
+          <attvalue for="0" value="MarriageDialogue.ja-JP" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'MarriageDialogue.ja-JP'}" />
+        </attvalues>
+      </node>
+      <node id="node_91" label="node_91">
+        <attvalues>
+          <attvalue for="0" value="MarriageDialogue.zh-CN" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'MarriageDialogue.zh-CN'}" />
+        </attvalues>
+      </node>
+      <node id="node_92" label="node_92">
+        <attvalues>
+          <attvalue for="0" value="MarriageDialogueHarvey.ja-JP" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'MarriageDialogueHarvey.ja-JP'}" />
+        </attvalues>
+      </node>
+      <node id="node_93" label="node_93">
+        <attvalues>
+          <attvalue for="0" value="MarriageDialogueHarvey.zh-CN" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'MarriageDialogueHarvey.zh-CN'}" />
+        </attvalues>
+      </node>
+      <node id="node_94" label="node_94">
+        <attvalues>
+          <attvalue for="0" value="Maru.zh-CN" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Maru.zh-CN'}" />
+        </attvalues>
+      </node>
+      <node id="node_95" label="node_95">
+        <attvalues>
+          <attvalue for="0" value="Pam.zh-CN" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Pam.zh-CN'}" />
+        </attvalues>
+      </node>
+      <node id="node_96" label="node_96">
+        <attvalues>
+          <attvalue for="0" value="Pierre.ja-JP" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Pierre.ja-JP'}" />
+        </attvalues>
+      </node>
+      <node id="node_97" label="node_97">
+        <attvalues>
+          <attvalue for="0" value="Pierre.zh-CN" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Pierre.zh-CN'}" />
+        </attvalues>
+      </node>
+      <node id="node_98" label="node_98">
+        <attvalues>
+          <attvalue for="0" value="Sandy.zh-CN" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Sandy.zh-CN'}" />
+        </attvalues>
+      </node>
+      <node id="node_99" label="node_99">
+        <attvalues>
+          <attvalue for="0" value="Sebastian.zh-CN" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Sebastian.zh-CN'}" />
+        </attvalues>
+      </node>
+      <node id="node_100" label="node_100">
+        <attvalues>
+          <attvalue for="0" value="Willy.zh-CN" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': 'Willy.zh-CN'}" />
+        </attvalues>
+      </node>
+      <node id="node_101" label="node_101">
+        <attvalues>
+          <attvalue for="0" value="皮埃尔" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '皮埃尔'}" />
+        </attvalues>
+      </node>
+      <node id="node_102" label="node_102">
+        <attvalues>
+          <attvalue for="0" value="克林特" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '克林特'}" />
+        </attvalues>
+      </node>
+      <node id="node_103" label="node_103">
+        <attvalues>
+          <attvalue for="0" value="威利" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '威利'}" />
+        </attvalues>
+      </node>
+      <node id="node_104" label="node_104">
+        <attvalues>
+          <attvalue for="0" value="矿洞" />
+          <attvalue for="1" value="Location" />
+          <attvalue for="2" value="{'name': '矿洞'}" />
+        </attvalues>
+      </node>
+      <node id="node_105" label="node_105">
+        <attvalues>
+          <attvalue for="0" value="森林" />
+          <attvalue for="1" value="Location" />
+          <attvalue for="2" value="{'name': '森林'}" />
+        </attvalues>
+      </node>
+      <node id="node_106" label="node_106">
+        <attvalues>
+          <attvalue for="0" value="河流" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '河流'}" />
+        </attvalues>
+      </node>
+      <node id="node_107" label="node_107">
+        <attvalues>
+          <attvalue for="0" value="海洋" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '海洋'}" />
+        </attvalues>
+      </node>
+      <node id="node_108" label="node_108">
+        <attvalues>
+          <attvalue for="0" value="春季" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '春季'}" />
+        </attvalues>
+      </node>
+      <node id="node_109" label="node_109">
+        <attvalues>
+          <attvalue for="0" value="夏季" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '夏季'}" />
+        </attvalues>
+      </node>
+      <node id="node_110" label="node_110">
+        <attvalues>
+          <attvalue for="0" value="秋季" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '秋季'}" />
+        </attvalues>
+      </node>
+      <node id="node_111" label="node_111">
+        <attvalues>
+          <attvalue for="0" value="WizardHouse" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'WizardHouse'}" />
+        </attvalues>
+      </node>
+      <node id="node_112" label="node_112">
+        <attvalues>
+          <attvalue for="0" value="100金" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': '100金'}" />
+        </attvalues>
+      </node>
+      <node id="node_113" label="node_113">
+        <attvalues>
+          <attvalue for="0" value="(O)24" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': '(O)24'}" />
+        </attvalues>
+      </node>
+      <node id="node_114" label="node_114">
+        <attvalues>
+          <attvalue for="0" value="Coop" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Coop'}" />
+        </attvalues>
+      </node>
+      <node id="node_115" label="node_115">
+        <attvalues>
+          <attvalue for="0" value="(BC)8" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': '(BC)8'}" />
+        </attvalues>
+      </node>
+      <node id="node_116" label="node_116">
+        <attvalues>
+          <attvalue for="0" value="." />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': '.'}" />
+        </attvalues>
+      </node>
+      <node id="node_117" label="node_117">
+        <attvalues>
+          <attvalue for="0" value="(BC)13" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': '(BC)13'}" />
+        </attvalues>
+      </node>
+      <node id="node_118" label="node_118">
+        <attvalues>
+          <attvalue for="0" value="(O)334 1" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': '(O)334 1'}" />
+        </attvalues>
+      </node>
+      <node id="node_119" label="node_119">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': '17'}" />
+        </attvalues>
+      </node>
+      <node id="node_120" label="node_120">
+        <attvalues>
+          <attvalue for="0" value="Green_Slime 10 null false" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Green_Slime 10 null false'}" />
+        </attvalues>
+      </node>
+      <node id="node_121" label="node_121">
+        <attvalues>
+          <attvalue for="0" value="AdventureGuild" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'AdventureGuild'}" />
+        </attvalues>
+      </node>
+      <node id="node_122" label="node_122">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': '18'}" />
+        </attvalues>
+      </node>
+      <node id="node_123" label="node_123">
+        <attvalues>
+          <attvalue for="0" value="ArchaeologyHouse" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'ArchaeologyHouse'}" />
+        </attvalues>
+      </node>
+      <node id="node_124" label="node_124">
+        <attvalues>
+          <attvalue for="0" value="250金" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': '250金'}" />
+        </attvalues>
+      </node>
+      <node id="node_125" label="node_125">
+        <attvalues>
+          <attvalue for="0" value="Robin (O)788 Forest 110 81" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Robin (O)788 Forest 110 81'}" />
+        </attvalues>
+      </node>
+      <node id="node_126" label="node_126">
+        <attvalues>
+          <attvalue for="0" value="350金" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': '350金'}" />
+        </attvalues>
+      </node>
+      <node id="node_127" label="node_127">
+        <attvalues>
+          <attvalue for="0" value="Jodi (O)190" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Jodi (O)190'}" />
+        </attvalues>
+      </node>
+      <node id="node_128" label="node_128">
+        <attvalues>
+          <attvalue for="0" value="750金" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': '750金'}" />
+        </attvalues>
+      </node>
+      <node id="node_129" label="node_129">
+        <attvalues>
+          <attvalue for="0" value="Lewis (O)789 AnimalShop 13 7" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Lewis (O)789 AnimalShop 13 7'}" />
+        </attvalues>
+      </node>
+      <node id="node_130" label="node_130">
+        <attvalues>
+          <attvalue for="0" value="Pam (O)303" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Pam (O)303'}" />
+        </attvalues>
+      </node>
+      <node id="node_131" label="node_131">
+        <attvalues>
+          <attvalue for="0" value="Demetrius (O)254" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Demetrius (O)254'}" />
+        </attvalues>
+      </node>
+      <node id="node_132" label="node_132">
+        <attvalues>
+          <attvalue for="0" value="George (O)260" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'George (O)260'}" />
+        </attvalues>
+      </node>
+      <node id="node_133" label="node_133">
+        <attvalues>
+          <attvalue for="0" value="Marnie (O)300" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Marnie (O)300'}" />
+        </attvalues>
+      </node>
+      <node id="node_134" label="node_134">
+        <attvalues>
+          <attvalue for="0" value="Linus (O)790 Backwoods 27 27" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Linus (O)790 Backwoods 27 27'}" />
+        </attvalues>
+      </node>
+      <node id="node_135" label="node_135">
+        <attvalues>
+          <attvalue for="0" value="Caroline (O)276" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Caroline (O)276'}" />
+        </attvalues>
+      </node>
+      <node id="node_136" label="node_136">
+        <attvalues>
+          <attvalue for="0" value="Willy (O)151" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Willy (O)151'}" />
+        </attvalues>
+      </node>
+      <node id="node_137" label="node_137">
+        <attvalues>
+          <attvalue for="0" value="Emily (O)66" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Emily (O)66'}" />
+        </attvalues>
+      </node>
+      <node id="node_138" label="node_138">
+        <attvalues>
+          <attvalue for="0" value="Wizard (O)769" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Wizard (O)769'}" />
+        </attvalues>
+      </node>
+      <node id="node_139" label="node_139">
+        <attvalues>
+          <attvalue for="0" value="Clint (O)335" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Clint (O)335'}" />
+        </attvalues>
+      </node>
+      <node id="node_140" label="node_140">
+        <attvalues>
+          <attvalue for="0" value="Robin (O)709 10" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Robin (O)709 10'}" />
+        </attvalues>
+      </node>
+      <node id="node_141" label="node_141">
+        <attvalues>
+          <attvalue for="0" value="Gus (O)705" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Gus (O)705'}" />
+        </attvalues>
+      </node>
+      <node id="node_142" label="node_142">
+        <attvalues>
+          <attvalue for="0" value="Emily (O)634" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Emily (O)634'}" />
+        </attvalues>
+      </node>
+      <node id="node_143" label="node_143">
+        <attvalues>
+          <attvalue for="0" value="Evelyn (O)20" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Evelyn (O)20'}" />
+        </attvalues>
+      </node>
+      <node id="node_144" label="node_144">
+        <attvalues>
+          <attvalue for="0" value="Pierre (O)227" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Pierre (O)227'}" />
+        </attvalues>
+      </node>
+      <node id="node_145" label="node_145">
+        <attvalues>
+          <attvalue for="0" value="Demetrius (O)128" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Demetrius (O)128'}" />
+        </attvalues>
+      </node>
+      <node id="node_146" label="node_146">
+        <attvalues>
+          <attvalue for="0" value="Kent (O)268" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Kent (O)268'}" />
+        </attvalues>
+      </node>
+      <node id="node_147" label="node_147">
+        <attvalues>
+          <attvalue for="0" value="Lewis (O)432" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Lewis (O)432'}" />
+        </attvalues>
+      </node>
+      <node id="node_148" label="node_148">
+        <attvalues>
+          <attvalue for="0" value="Gus (O)715" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Gus (O)715'}" />
+        </attvalues>
+      </node>
+      <node id="node_149" label="node_149">
+        <attvalues>
+          <attvalue for="0" value="Pam (O)787" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Pam (O)787'}" />
+        </attvalues>
+      </node>
+      <node id="node_150" label="node_150">
+        <attvalues>
+          <attvalue for="0" value="Wizard (O)337" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Wizard (O)337'}" />
+        </attvalues>
+      </node>
+      <node id="node_151" label="node_151">
+        <attvalues>
+          <attvalue for="0" value="Willy (O)707" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Willy (O)707'}" />
+        </attvalues>
+      </node>
+      <node id="node_152" label="node_152">
+        <attvalues>
+          <attvalue for="0" value="Gus (O)88" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Gus (O)88'}" />
+        </attvalues>
+      </node>
+      <node id="node_153" label="node_153">
+        <attvalues>
+          <attvalue for="0" value="Emily (O)771 200" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Emily (O)771 200'}" />
+        </attvalues>
+      </node>
+      <node id="node_154" label="node_154">
+        <attvalues>
+          <attvalue for="0" value="Abigail (O)191 100 129" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Abigail (O)191 100 129'}" />
+        </attvalues>
+      </node>
+      <node id="node_155" label="node_155">
+        <attvalues>
+          <attvalue for="0" value="Caroline (O)191 50 128" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Caroline (O)191 50 128'}" />
+        </attvalues>
+      </node>
+      <node id="node_156" label="node_156">
+        <attvalues>
+          <attvalue for="0" value="-5" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': '-5'}" />
+        </attvalues>
+      </node>
+      <node id="node_157" label="node_157">
+        <attvalues>
+          <attvalue for="0" value="Silo" />
+          <attvalue for="1" value="Quest" />
+          <attvalue for="2" value="{'name': 'Silo'}" />
+        </attvalues>
+      </node>
+      <node id="node_158" label="node_158">
+        <attvalues>
+          <attvalue for="0" value="斧" />
+          <attvalue for="1" value="Item" />
+          <attvalue for="2" value="{'name': '斧'}" />
+        </attvalues>
+      </node>
+      <node id="node_159" label="node_159">
+        <attvalues>
+          <attvalue for="0" value="作物" />
+          <attvalue for="1" value="Item" />
+          <attvalue for="2" value="{'name': '作物'}" />
+        </attvalues>
+      </node>
+      <node id="node_160" label="node_160">
+        <attvalues>
+          <attvalue for="0" value="剑" />
+          <attvalue for="1" value="Item" />
+          <attvalue for="2" value="{'name': '剑'}" />
+        </attvalues>
+      </node>
+      <node id="node_161" label="node_161">
+        <attvalues>
+          <attvalue for="0" value="镐" />
+          <attvalue for="1" value="Item" />
+          <attvalue for="2" value="{'name': '镐'}" />
+        </attvalues>
+      </node>
+      <node id="node_162" label="node_162">
+        <attvalues>
+          <attvalue for="0" value="种子" />
+          <attvalue for="1" value="Item" />
+          <attvalue for="2" value="{'name': '种子'}" />
+        </attvalues>
+      </node>
+      <node id="node_163" label="node_163">
+        <attvalues>
+          <attvalue for="0" value="鱼竿" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '鱼竿'}" />
+        </attvalues>
+      </node>
+      <node id="node_164" label="node_164">
+        <attvalues>
+          <attvalue for="0" value="肥料" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '肥料'}" />
+        </attvalues>
+      </node>
+      <node id="node_165" label="node_165">
+        <attvalues>
+          <attvalue for="0" value="矿石" />
+          <attvalue for="1" value="Item" />
+          <attvalue for="2" value="{'name': '矿石'}" />
+        </attvalues>
+      </node>
+      <node id="node_166" label="node_166">
+        <attvalues>
+          <attvalue for="0" value="工具" />
+          <attvalue for="1" value="Item" />
+          <attvalue for="2" value="{'name': '工具'}" />
+        </attvalues>
+      </node>
+      <node id="node_167" label="node_167">
+        <attvalues>
+          <attvalue for="0" value="建材" />
+          <attvalue for="1" value="NPC" />
+          <attvalue for="2" value="{'name': '建材'}" />
+        </attvalues>
+      </node>
+      <node id="node_168" label="node_168">
+        <attvalues>
+          <attvalue for="0" value="动物" />
+          <attvalue for="1" value="NPC" />
+          <attvalue for="2" value="{'name': '动物'}" />
+        </attvalues>
+      </node>
+      <node id="node_169" label="node_169">
+        <attvalues>
+          <attvalue for="0" value="怪物" />
+          <attvalue for="1" value="Location" />
+          <attvalue for="2" value="{'name': '怪物'}" />
+        </attvalues>
+      </node>
+      <node id="node_170" label="node_170">
+        <attvalues>
+          <attvalue for="0" value=" forageables" />
+          <attvalue for="1" value="Location" />
+          <attvalue for="2" value="{'name': ' forageables'}" />
+        </attvalues>
+      </node>
+      <node id="node_171" label="node_171">
+        <attvalues>
+          <attvalue for="0" value="鱼类" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '鱼类'}" />
+        </attvalues>
+      </node>
+      <node id="node_172" label="node_172">
+        <attvalues>
+          <attvalue for="0" value="防风草" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '防风草'}" />
+        </attvalues>
+      </node>
+      <node id="node_173" label="node_173">
+        <attvalues>
+          <attvalue for="0" value="花椰菜" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '花椰菜'}" />
+        </attvalues>
+      </node>
+      <node id="node_174" label="node_174">
+        <attvalues>
+          <attvalue for="0" value="蓝莓" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '蓝莓'}" />
+        </attvalues>
+      </node>
+      <node id="node_175" label="node_175">
+        <attvalues>
+          <attvalue for="0" value="辣椒" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '辣椒'}" />
+        </attvalues>
+      </node>
+      <node id="node_176" label="node_176">
+        <attvalues>
+          <attvalue for="0" value="蔓越莓" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '蔓越莓'}" />
+        </attvalues>
+      </node>
+      <node id="node_177" label="node_177">
+        <attvalues>
+          <attvalue for="0" value="南瓜" />
+          <attvalue for="1" value="Unknown" />
+          <attvalue for="2" value="{'name': '南瓜'}" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="quest_1" target="node_111" id="0">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_1" target="npc_1" id="1">
+        <attvalues>
+          <attvalue for="3" value="发布" />
+        </attvalues>
+      </edge>
+      <edge source="npc_2" target="quest_5" id="2">
+        <attvalues>
+          <attvalue for="3" value="发布" />
+        </attvalues>
+      </edge>
+      <edge source="npc_6" target="quest_132" id="3">
+        <attvalues>
+          <attvalue for="3" value="发布" />
+        </attvalues>
+      </edge>
+      <edge source="quest_7" target="node_114" id="4">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_7" target="node_112" id="5">
+        <attvalues>
+          <attvalue for="3" value="奖励" />
+        </attvalues>
+      </edge>
+      <edge source="quest_7" target="npc_100" id="6">
+        <attvalues>
+          <attvalue for="3" value="发布" />
+        </attvalues>
+      </edge>
+      <edge source="quest_8" target="node_115" id="7">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_8" target="node_112" id="8">
+        <attvalues>
+          <attvalue for="3" value="奖励" />
+        </attvalues>
+      </edge>
+      <edge source="quest_10" target="node_116" id="9">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_11" target="node_117" id="10">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_12" target="node_118" id="11">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_14" target="node_119" id="12">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_16" target="node_121" id="13">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_16" target="node_120" id="14">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_17" target="node_122" id="15">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_21" target="npc_21" id="16">
+        <attvalues>
+          <attvalue for="3" value="发布" />
+        </attvalues>
+      </edge>
+      <edge source="npc_21" target="node_168" id="17">
+        <attvalues>
+          <attvalue for="3" value="出售" />
+        </attvalues>
+      </edge>
+      <edge source="quest_22" target="npc_101" id="18">
+        <attvalues>
+          <attvalue for="3" value="发布" />
+        </attvalues>
+      </edge>
+      <edge source="quest_24" target="node_123" id="19">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_24" target="node_124" id="20">
+        <attvalues>
+          <attvalue for="3" value="奖励" />
+        </attvalues>
+      </edge>
+      <edge source="quest_100" target="node_125" id="21">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_100" target="node_124" id="22">
+        <attvalues>
+          <attvalue for="3" value="奖励" />
+        </attvalues>
+      </edge>
+      <edge source="quest_100" target="npc_100" id="23">
+        <attvalues>
+          <attvalue for="3" value="发布" />
+        </attvalues>
+      </edge>
+      <edge source="npc_100" target="node_167" id="24">
+        <attvalues>
+          <attvalue for="3" value="出售" />
+        </attvalues>
+      </edge>
+      <edge source="quest_101" target="node_127" id="25">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_101" target="node_126" id="26">
+        <attvalues>
+          <attvalue for="3" value="奖励" />
+        </attvalues>
+      </edge>
+      <edge source="quest_101" target="npc_101" id="27">
+        <attvalues>
+          <attvalue for="3" value="发布" />
+        </attvalues>
+      </edge>
+      <edge source="quest_102" target="node_129" id="28">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_102" target="node_128" id="29">
+        <attvalues>
+          <attvalue for="3" value="奖励" />
+        </attvalues>
+      </edge>
+      <edge source="quest_103" target="node_130" id="30">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_104" target="node_131" id="31">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_105" target="node_132" id="32">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_106" target="node_133" id="33">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_107" target="node_134" id="34">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_108" target="node_135" id="35">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_109" target="node_136" id="36">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_110" target="node_137" id="37">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_111" target="node_138" id="38">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_112" target="node_139" id="39">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_113" target="node_140" id="40">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_114" target="node_141" id="41">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_115" target="node_142" id="42">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_116" target="node_143" id="43">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_117" target="node_144" id="44">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_118" target="node_145" id="45">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_119" target="node_146" id="46">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_120" target="node_147" id="47">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_121" target="node_148" id="48">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_122" target="node_149" id="49">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_123" target="node_150" id="50">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_124" target="node_151" id="51">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_125" target="node_152" id="52">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_126" target="node_153" id="53">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_129" target="node_155" id="54">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_129" target="node_154" id="55">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_132" target="node_156" id="56">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_132" target="node_113" id="57">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="quest_132" target="node_112" id="58">
+        <attvalues>
+          <attvalue for="3" value="奖励" />
+        </attvalues>
+      </edge>
+      <edge source="quest_133" target="node_157" id="59">
+        <attvalues>
+          <attvalue for="3" value="发生于" />
+        </attvalues>
+      </edge>
+      <edge source="node_74" target="node_158" id="60">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_74" target="node_159" id="61">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_75" target="node_158" id="62">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_75" target="node_160" id="63">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_76" target="node_159" id="64">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_77" target="node_159" id="65">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_78" target="node_161" id="66">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_79" target="node_159" id="67">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_80" target="node_159" id="68">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_81" target="node_159" id="69">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_82" target="node_162" id="70">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_82" target="node_159" id="71">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_83" target="node_159" id="72">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_84" target="node_159" id="73">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_85" target="node_159" id="74">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_86" target="node_159" id="75">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_87" target="node_159" id="76">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_88" target="node_159" id="77">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_89" target="node_159" id="78">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_90" target="node_159" id="79">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_91" target="node_159" id="80">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_92" target="node_159" id="81">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_93" target="node_159" id="82">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_94" target="node_159" id="83">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_95" target="node_163" id="84">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_96" target="node_159" id="85">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_97" target="node_162" id="86">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_97" target="node_159" id="87">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_98" target="node_162" id="88">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_99" target="node_160" id="89">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_100" target="node_163" id="90">
+        <attvalues>
+          <attvalue for="3" value="提到" />
+        </attvalues>
+      </edge>
+      <edge source="node_101" target="node_162" id="91">
+        <attvalues>
+          <attvalue for="3" value="出售" />
+        </attvalues>
+      </edge>
+      <edge source="node_101" target="node_164" id="92">
+        <attvalues>
+          <attvalue for="3" value="出售" />
+        </attvalues>
+      </edge>
+      <edge source="node_102" target="node_165" id="93">
+        <attvalues>
+          <attvalue for="3" value="出售" />
+        </attvalues>
+      </edge>
+      <edge source="node_102" target="node_166" id="94">
+        <attvalues>
+          <attvalue for="3" value="打造" />
+        </attvalues>
+      </edge>
+      <edge source="node_103" target="node_163" id="95">
+        <attvalues>
+          <attvalue for="3" value="出售" />
+        </attvalues>
+      </edge>
+      <edge source="node_104" target="node_169" id="96">
+        <attvalues>
+          <attvalue for="3" value="包含" />
+        </attvalues>
+      </edge>
+      <edge source="node_104" target="node_165" id="97">
+        <attvalues>
+          <attvalue for="3" value="包含" />
+        </attvalues>
+      </edge>
+      <edge source="node_105" target="node_170" id="98">
+        <attvalues>
+          <attvalue for="3" value="包含" />
+        </attvalues>
+      </edge>
+      <edge source="node_106" target="node_171" id="99">
+        <attvalues>
+          <attvalue for="3" value="包含" />
+        </attvalues>
+      </edge>
+      <edge source="node_107" target="node_171" id="100">
+        <attvalues>
+          <attvalue for="3" value="包含" />
+        </attvalues>
+      </edge>
+      <edge source="node_108" target="node_173" id="101">
+        <attvalues>
+          <attvalue for="3" value="适合种植" />
+        </attvalues>
+      </edge>
+      <edge source="node_108" target="node_172" id="102">
+        <attvalues>
+          <attvalue for="3" value="适合种植" />
+        </attvalues>
+      </edge>
+      <edge source="node_109" target="node_174" id="103">
+        <attvalues>
+          <attvalue for="3" value="适合种植" />
+        </attvalues>
+      </edge>
+      <edge source="node_109" target="node_175" id="104">
+        <attvalues>
+          <attvalue for="3" value="适合种植" />
+        </attvalues>
+      </edge>
+      <edge source="node_110" target="node_176" id="105">
+        <attvalues>
+          <attvalue for="3" value="适合种植" />
+        </attvalues>
+      </edge>
+      <edge source="node_110" target="node_177" id="106">
+        <attvalues>
+          <attvalue for="3" value="适合种植" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
